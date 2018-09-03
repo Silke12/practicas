@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UF1 Ejercicio</string>
+    <string name="title_home">La ruleta de la suerte</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="buttonComprueba">comprobar</string>
+    <string name="buttonCambio">cambio de palabra</string>
+    <string name="buttonInicio">empezar</string>
+    <string name="indicaciones">Inserta letras en mayuscula para descubrir la palabra misteriosa</string>
+    <string name="letraMisteriosa">X</string>
+</resources>
